@@ -1,0 +1,18 @@
+C:\Users\aluno\Documents\INFNET\C#\TP 03\TP-03\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\aluno\Documents\INFNET\C#\TP 03\TP-03\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\aluno\Documents\INFNET\C#\TP 03\TP-03\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\aluno\Documents\INFNET\C#\TP 03\TP-03\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\INFNET\C#\TP 03\TP-03\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\INFNET\C#\TP 03\TP-03\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\aluno\Documents\INFNET\C#\TP 03\TP-03\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\aluno\Documents\INFNET\C#\TP 03\TP-03\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\aluno\Documents\INFNET\C#\TP 03\TP-03\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\igori\Documents\INFNET\BLOCO 02 _Dot NET\C#\TP03\TP-03\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\igori\Documents\INFNET\BLOCO 02 _Dot NET\C#\TP03\TP-03\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\igori\Documents\INFNET\BLOCO 02 _Dot NET\C#\TP03\TP-03\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\igori\Documents\INFNET\BLOCO 02 _Dot NET\C#\TP03\TP-03\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\igori\Documents\INFNET\BLOCO 02 _Dot NET\C#\TP03\TP-03\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\igori\Documents\INFNET\BLOCO 02 _Dot NET\C#\TP03\TP-03\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\igori\Documents\INFNET\BLOCO 02 _Dot NET\C#\TP03\TP-03\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\igori\Documents\INFNET\BLOCO 02 _Dot NET\C#\TP03\TP-03\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\igori\Documents\INFNET\BLOCO 02 _Dot NET\C#\TP03\TP-03\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
